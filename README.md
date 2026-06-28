@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 
 ---
 
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanmaytyagii/Codeforces-Progress/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/tanmaytyagii/Codeforces-Progress/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/tanmaytyagii/Codeforces-Progress/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 
